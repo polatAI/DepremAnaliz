@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🌍 Deprem Uygulaması
 
 Bu proje, **Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü**'nden alınan verilerle, depremleri **gerçek zamanlı** olarak takip etmeyi amaçlayan bir **Web ve Masaüstü Uygulaması**'dır. Kullanıcılar, depremler hakkında anlık bilgi alabilir ve görselleştirmelerle daha detaylı analizler yapabilirler.
@@ -43,7 +43,7 @@ Proje, aşağıdaki Python kütüphanelerine ihtiyaç duyar:
 
    ```bash
    pip install -r requirements.txt
-   ```
+   
 
 3. Uygulamayı çalıştırmak için **`main.py`** dosyasını çalıştırın:
 
@@ -73,7 +73,7 @@ Proje, aşağıdaki Python kütüphanelerine ihtiyaç duyar:
 
 Aşağıdaki görsel, uygulamanın çalışma ekranını göstermektedir:
 
-![Uygulama Görseli](https://i.hizliresim.com/1z0q41o.png)
+![Uygulama Görseli](/foto/Ekran%20görüntüsü%202025-04-27%20023227.png)
 
 ---
 
