@@ -80,10 +80,6 @@ Aşağıdaki görsel, uygulamanın çalışma ekranını göstermektedir:
 **Proje hakkında daha fazla bilgi ve katkı için [kandilli rasathanesi](https://www.koeri.boun.edu.tr/)**'ni ziyaret edebilirsiniz.
 ```
 
-### Yapılan Değişiklikler:
-- Başlıklar, emojilerle zenginleştirildi.
-- Bölümler arasına açıklamalar eklendi.
-- Görsel kısmı görselin altına bir açıklama ekleyerek daha belirgin hale getirildi.
-- **Notlar** bölümü ve görsel kısmı daha şık hale getirildi. 
 
-Bu haliyle daha estetik ve okunması daha kolay bir **`README.md`** dosyanız oldu. Bu metni GitHub'a eklediğinizde daha düzenli bir görünüm elde edebilirsiniz.
+
+ 
