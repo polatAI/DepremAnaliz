@@ -1,0 +1,4502 @@
+[
+    {
+        "Tarih": "2025.04.27",
+        "Saat": "02:04:10",
+        "Enlem": 37.3562,
+        "Boylam": 26.6297,
+        "Derinlik(km)": 5.0,
+        "ML": 2.2,
+        "Yer": "ONIKI ADALAR (EGE DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.27",
+        "Saat": "01:41:32",
+        "Enlem": 39.2485,
+        "Boylam": 29.0002,
+        "Derinlik(km)": 11.6,
+        "ML": 3.5,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.27",
+        "Saat": "01:36:09",
+        "Enlem": 40.84,
+        "Boylam": 28.783,
+        "Derinlik(km)": 13.0,
+        "ML": 1.7,
+        "Yer": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.27",
+        "Saat": "01:25:33",
+        "Enlem": 37.5052,
+        "Boylam": 37.2652,
+        "Derinlik(km)": 3.1,
+        "ML": 1.7,
+        "Yer": "ARMUTLU-PAZARCIK (KAHRAMANMARAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.27",
+        "Saat": "01:09:20",
+        "Enlem": 39.5157,
+        "Boylam": 26.2433,
+        "Derinlik(km)": 5.0,
+        "ML": 1.5,
+        "Yer": "KORUBASI-AYVACIK (CANAKKALE) İlksel"
+    },
+    {
+        "Tarih": "2025.04.27",
+        "Saat": "00:48:02",
+        "Enlem": 40.8635,
+        "Boylam": 28.398,
+        "Derinlik(km)": 13.8,
+        "ML": 1.1,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.27",
+        "Saat": "00:40:35",
+        "Enlem": 36.6613,
+        "Boylam": 25.6222,
+        "Derinlik(km)": 7.1,
+        "ML": 1.6,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.27",
+        "Saat": "00:35:34",
+        "Enlem": 40.8417,
+        "Boylam": 28.2882,
+        "Derinlik(km)": 16.1,
+        "ML": 2.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.27",
+        "Saat": "00:30:45",
+        "Enlem": 40.846,
+        "Boylam": 28.3393,
+        "Derinlik(km)": 6.6,
+        "ML": 2.1,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "23:50:29",
+        "Enlem": 38.3028,
+        "Boylam": 42.3757,
+        "Derinlik(km)": 5.4,
+        "ML": 2.4,
+        "Yer": "ALADANA-HIZAN (BITLIS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "23:21:40",
+        "Enlem": 39.2357,
+        "Boylam": 28.9963,
+        "Derinlik(km)": 5.6,
+        "ML": 2.6,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "23:16:19",
+        "Enlem": 40.8458,
+        "Boylam": 28.2643,
+        "Derinlik(km)": 15.8,
+        "ML": 2.4,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "22:48:59",
+        "Enlem": 39.236,
+        "Boylam": 28.9853,
+        "Derinlik(km)": 11.0,
+        "ML": 2.3,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "22:45:29",
+        "Enlem": 38.066,
+        "Boylam": 37.2778,
+        "Derinlik(km)": 5.0,
+        "ML": 2.8,
+        "Yer": "GUMUSDOVEN-ELBISTAN (KAHRAMANMARAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "22:38:49",
+        "Enlem": 39.2143,
+        "Boylam": 29.013,
+        "Derinlik(km)": 5.0,
+        "ML": 1.5,
+        "Yer": "EGIRLER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "22:32:34",
+        "Enlem": 40.8687,
+        "Boylam": 28.215,
+        "Derinlik(km)": 7.1,
+        "ML": 1.7,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "22:14:02",
+        "Enlem": 39.2463,
+        "Boylam": 28.9727,
+        "Derinlik(km)": 7.8,
+        "ML": 3.5,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "21:47:12",
+        "Enlem": 40.8252,
+        "Boylam": 28.1665,
+        "Derinlik(km)": 4.1,
+        "ML": 2.5,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "21:42:01",
+        "Enlem": 40.8497,
+        "Boylam": 28.3097,
+        "Derinlik(km)": 17.2,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "21:40:38",
+        "Enlem": 40.8433,
+        "Boylam": 28.449,
+        "Derinlik(km)": 13.3,
+        "ML": 1.5,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "21:37:24",
+        "Enlem": 40.8507,
+        "Boylam": 28.3977,
+        "Derinlik(km)": 14.9,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "21:32:47",
+        "Enlem": 39.2725,
+        "Boylam": 28.9708,
+        "Derinlik(km)": 7.7,
+        "ML": 2.0,
+        "Yer": "KARAKOCA-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "21:20:05",
+        "Enlem": 38.3057,
+        "Boylam": 27.1963,
+        "Derinlik(km)": 9.5,
+        "ML": 1.6,
+        "Yer": "KISIK-MENDERES (IZMIR) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "21:08:27",
+        "Enlem": 40.8645,
+        "Boylam": 28.3942,
+        "Derinlik(km)": 20.6,
+        "ML": 2.1,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "20:45:06",
+        "Enlem": 40.8258,
+        "Boylam": 28.2013,
+        "Derinlik(km)": 15.6,
+        "ML": 3.4,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "20:39:50",
+        "Enlem": 39.2495,
+        "Boylam": 28.9915,
+        "Derinlik(km)": 10.6,
+        "ML": 2.4,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "20:24:57",
+        "Enlem": 38.3212,
+        "Boylam": 38.9028,
+        "Derinlik(km)": 7.6,
+        "ML": 2.5,
+        "Yer": "UZUNHUSEYIN-KALE (MALATYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "20:19:25",
+        "Enlem": 40.826,
+        "Boylam": 28.193,
+        "Derinlik(km)": 15.6,
+        "ML": 2.7,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "20:03:27",
+        "Enlem": 39.2367,
+        "Boylam": 28.9948,
+        "Derinlik(km)": 4.4,
+        "ML": 2.1,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "19:47:06",
+        "Enlem": 40.8568,
+        "Boylam": 28.4852,
+        "Derinlik(km)": 5.1,
+        "ML": 2.0,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "19:45:47",
+        "Enlem": 40.8463,
+        "Boylam": 28.4855,
+        "Derinlik(km)": 5.3,
+        "ML": 2.2,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "19:34:43",
+        "Enlem": 40.8507,
+        "Boylam": 28.4197,
+        "Derinlik(km)": 5.0,
+        "ML": 2.1,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "18:29:28",
+        "Enlem": 40.8265,
+        "Boylam": 28.3623,
+        "Derinlik(km)": 16.5,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "17:58:44",
+        "Enlem": 40.8348,
+        "Boylam": 28.3723,
+        "Derinlik(km)": 9.8,
+        "ML": 2.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "17:56:00",
+        "Enlem": 40.8623,
+        "Boylam": 28.699,
+        "Derinlik(km)": 13.4,
+        "ML": 2.3,
+        "Yer": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "17:48:40",
+        "Enlem": 37.5007,
+        "Boylam": 29.5652,
+        "Derinlik(km)": 8.0,
+        "ML": 2.2,
+        "Yer": "GUNEY-YESILOVA (BURDUR) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "17:02:31",
+        "Enlem": 40.84,
+        "Boylam": 28.445,
+        "Derinlik(km)": 4.8,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "16:11:07",
+        "Enlem": 39.235,
+        "Boylam": 29.0088,
+        "Derinlik(km)": 8.3,
+        "ML": 1.8,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "15:51:17",
+        "Enlem": 39.2407,
+        "Boylam": 28.9492,
+        "Derinlik(km)": 18.0,
+        "ML": 2.0,
+        "Yer": "YENILER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "15:28:48",
+        "Enlem": 39.2498,
+        "Boylam": 29.012,
+        "Derinlik(km)": 5.5,
+        "ML": 2.1,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "14:54:48",
+        "Enlem": 40.8112,
+        "Boylam": 28.6215,
+        "Derinlik(km)": 14.5,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "14:46:01",
+        "Enlem": 39.2375,
+        "Boylam": 29.0073,
+        "Derinlik(km)": 4.9,
+        "ML": 2.2,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "14:38:39",
+        "Enlem": 40.83,
+        "Boylam": 28.1552,
+        "Derinlik(km)": 20.7,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "14:28:37",
+        "Enlem": 40.3857,
+        "Boylam": 25.9003,
+        "Derinlik(km)": 5.4,
+        "ML": 2.1,
+        "Yer": "KALEKOY-GOKCEADA (CANAKKALE) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "14:25:12",
+        "Enlem": 40.8487,
+        "Boylam": 28.2143,
+        "Derinlik(km)": 9.0,
+        "ML": 2.2,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "13:54:39",
+        "Enlem": 39.2383,
+        "Boylam": 28.9813,
+        "Derinlik(km)": 5.4,
+        "ML": 2.5,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "13:34:21",
+        "Enlem": 39.2505,
+        "Boylam": 29.018,
+        "Derinlik(km)": 5.4,
+        "ML": 2.3,
+        "Yer": "YESILDERE-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "13:33:40",
+        "Enlem": 40.358,
+        "Boylam": 42.6993,
+        "Derinlik(km)": 5.0,
+        "ML": 2.2,
+        "Yer": "BOZAT-SARIKAMIS (KARS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "13:18:32",
+        "Enlem": 39.2435,
+        "Boylam": 28.9985,
+        "Derinlik(km)": 12.1,
+        "ML": 2.3,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "13:05:39",
+        "Enlem": 40.8363,
+        "Boylam": 28.3898,
+        "Derinlik(km)": 7.7,
+        "ML": 3.4,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "13:02:06",
+        "Enlem": 36.6218,
+        "Boylam": 25.5957,
+        "Derinlik(km)": 18.0,
+        "ML": 2.6,
+        "Yer": "EGE DENIZI REVIZE01 (2025.04.26 13:02:14)"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "13:01:20",
+        "Enlem": 36.6238,
+        "Boylam": 33.3653,
+        "Derinlik(km)": 8.2,
+        "ML": 1.6,
+        "Yer": "HAMAMKOY-MUT (MERSIN) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "12:57:45",
+        "Enlem": 39.508,
+        "Boylam": 37.3005,
+        "Derinlik(km)": 20.9,
+        "ML": 1.6,
+        "Yer": "KERVANSARAY-(SIVAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "12:52:01",
+        "Enlem": 39.2375,
+        "Boylam": 28.9762,
+        "Derinlik(km)": 11.7,
+        "ML": 2.3,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "12:47:31",
+        "Enlem": 37.981,
+        "Boylam": 27.1402,
+        "Derinlik(km)": 4.7,
+        "ML": 1.9,
+        "Yer": "KUSADASI KORFEZI (EGE DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "12:32:44",
+        "Enlem": 40.853,
+        "Boylam": 28.465,
+        "Derinlik(km)": 6.6,
+        "ML": 3.4,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "12:31:24",
+        "Enlem": 39.233,
+        "Boylam": 29.0223,
+        "Derinlik(km)": 3.0,
+        "ML": 1.8,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "12:21:55",
+        "Enlem": 39.2597,
+        "Boylam": 28.9897,
+        "Derinlik(km)": 5.4,
+        "ML": 3.2,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "11:38:15",
+        "Enlem": 40.8463,
+        "Boylam": 28.3248,
+        "Derinlik(km)": 14.5,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "11:35:16",
+        "Enlem": 34.5318,
+        "Boylam": 24.1065,
+        "Derinlik(km)": 54.9,
+        "ML": 3.1,
+        "Yer": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "11:19:00",
+        "Enlem": 39.248,
+        "Boylam": 28.999,
+        "Derinlik(km)": 10.9,
+        "ML": 2.4,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "11:17:35",
+        "Enlem": 39.2538,
+        "Boylam": 28.9682,
+        "Derinlik(km)": 5.7,
+        "ML": 2.3,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "11:11:44",
+        "Enlem": 39.1983,
+        "Boylam": 28.9807,
+        "Derinlik(km)": 12.0,
+        "ML": 1.9,
+        "Yer": "EGIRLER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "11:11:20",
+        "Enlem": 36.3857,
+        "Boylam": 27.6025,
+        "Derinlik(km)": 24.9,
+        "ML": 1.9,
+        "Yer": "ONIKI ADALAR (EGE DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "11:11:18",
+        "Enlem": 39.2555,
+        "Boylam": 29.0055,
+        "Derinlik(km)": 5.0,
+        "ML": 2.4,
+        "Yer": "YESILDERE-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "10:38:57",
+        "Enlem": 39.2423,
+        "Boylam": 29.036,
+        "Derinlik(km)": 10.1,
+        "ML": 2.2,
+        "Yer": "KATRANDAGI-EMET (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "10:36:59",
+        "Enlem": 39.2402,
+        "Boylam": 28.9893,
+        "Derinlik(km)": 5.1,
+        "ML": 2.5,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "10:07:53",
+        "Enlem": 39.2443,
+        "Boylam": 28.9763,
+        "Derinlik(km)": 8.3,
+        "ML": 1.7,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "10:00:52",
+        "Enlem": 40.844,
+        "Boylam": 28.4662,
+        "Derinlik(km)": 6.3,
+        "ML": 2.9,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "09:39:34",
+        "Enlem": 36.6577,
+        "Boylam": 25.9732,
+        "Derinlik(km)": 10.5,
+        "ML": 2.0,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "09:30:40",
+        "Enlem": 38.146,
+        "Boylam": 38.552,
+        "Derinlik(km)": 5.0,
+        "ML": 2.8,
+        "Yer": "GECITLI-SINCIK (ADIYAMAN) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "09:28:13",
+        "Enlem": 36.9315,
+        "Boylam": 27.6808,
+        "Derinlik(km)": 6.4,
+        "ML": 1.8,
+        "Yer": "GOKOVA KORFEZI (EGE DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "09:15:46",
+        "Enlem": 40.5637,
+        "Boylam": 35.9905,
+        "Derinlik(km)": 7.3,
+        "ML": 1.6,
+        "Yer": "UYGUR-(AMASYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "08:55:39",
+        "Enlem": 37.8552,
+        "Boylam": 29.2035,
+        "Derinlik(km)": 21.2,
+        "ML": 1.5,
+        "Yer": "KOCADERE-(DENIZLI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "08:55:33",
+        "Enlem": 39.242,
+        "Boylam": 29.0162,
+        "Derinlik(km)": 5.4,
+        "ML": 1.7,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "08:51:24",
+        "Enlem": 35.736,
+        "Boylam": 25.4993,
+        "Derinlik(km)": 22.2,
+        "ML": 2.0,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "08:32:51",
+        "Enlem": 40.8552,
+        "Boylam": 28.1447,
+        "Derinlik(km)": 12.7,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "08:09:45",
+        "Enlem": 40.827,
+        "Boylam": 28.1853,
+        "Derinlik(km)": 8.6,
+        "ML": 3.1,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "08:03:57",
+        "Enlem": 38.5418,
+        "Boylam": 33.1005,
+        "Derinlik(km)": 3.4,
+        "ML": 2.3,
+        "Yer": "GUNYUZU-CIHANBEYLI (KONYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "07:54:09",
+        "Enlem": 35.9813,
+        "Boylam": 26.874,
+        "Derinlik(km)": 5.1,
+        "ML": 2.1,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "07:45:27",
+        "Enlem": 38.515,
+        "Boylam": 33.1005,
+        "Derinlik(km)": 12.7,
+        "ML": 2.7,
+        "Yer": "GUNYUZU-CIHANBEYLI (KONYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "07:40:49",
+        "Enlem": 38.5467,
+        "Boylam": 33.0907,
+        "Derinlik(km)": 3.2,
+        "ML": 2.2,
+        "Yer": "GUNYUZU-CIHANBEYLI (KONYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "07:40:08",
+        "Enlem": 37.9638,
+        "Boylam": 28.8157,
+        "Derinlik(km)": 2.0,
+        "ML": 1.5,
+        "Yer": "KIZILDERE-BUHARKENT (AYDIN) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "07:37:41",
+        "Enlem": 38.5205,
+        "Boylam": 33.1162,
+        "Derinlik(km)": 1.7,
+        "ML": 2.2,
+        "Yer": "GUNYUZU-CIHANBEYLI (KONYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "07:36:47",
+        "Enlem": 39.2467,
+        "Boylam": 28.9948,
+        "Derinlik(km)": 6.2,
+        "ML": 1.7,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "07:35:42",
+        "Enlem": 39.2448,
+        "Boylam": 29.0268,
+        "Derinlik(km)": 8.0,
+        "ML": 1.7,
+        "Yer": "KATRANDAGI-EMET (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "07:32:35",
+        "Enlem": 37.8797,
+        "Boylam": 27.601,
+        "Derinlik(km)": 9.3,
+        "ML": 1.1,
+        "Yer": "GERMENCIK (AYDIN) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "07:31:42",
+        "Enlem": 39.1743,
+        "Boylam": 29.0142,
+        "Derinlik(km)": 7.0,
+        "ML": 1.1,
+        "Yer": "KARACAOREN-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "07:22:38",
+        "Enlem": 39.171,
+        "Boylam": 29.023,
+        "Derinlik(km)": 6.0,
+        "ML": 1.2,
+        "Yer": "KARACAOREN-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "07:16:35",
+        "Enlem": 38.5295,
+        "Boylam": 33.1072,
+        "Derinlik(km)": 5.7,
+        "ML": 3.9,
+        "Yer": "GUNYUZU-CIHANBEYLI (KONYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "06:46:02",
+        "Enlem": 39.238,
+        "Boylam": 28.9673,
+        "Derinlik(km)": 5.8,
+        "ML": 2.2,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "06:41:16",
+        "Enlem": 38.4853,
+        "Boylam": 39.2933,
+        "Derinlik(km)": 5.8,
+        "ML": 2.4,
+        "Yer": "BEKCITEPE-SIVRICE (ELAZIG) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "06:40:10",
+        "Enlem": 39.2413,
+        "Boylam": 29.0008,
+        "Derinlik(km)": 3.7,
+        "ML": 1.6,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "06:33:41",
+        "Enlem": 40.8577,
+        "Boylam": 28.4583,
+        "Derinlik(km)": 5.0,
+        "ML": 1.5,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "06:23:21",
+        "Enlem": 40.8287,
+        "Boylam": 28.2667,
+        "Derinlik(km)": 1.1,
+        "ML": 1.7,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "06:22:44",
+        "Enlem": 36.6143,
+        "Boylam": 25.5645,
+        "Derinlik(km)": 3.1,
+        "ML": 1.8,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "06:16:21",
+        "Enlem": 39.2508,
+        "Boylam": 29.011,
+        "Derinlik(km)": 11.9,
+        "ML": 1.5,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "06:08:13",
+        "Enlem": 36.582,
+        "Boylam": 25.489,
+        "Derinlik(km)": 2.1,
+        "ML": 1.4,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "05:57:53",
+        "Enlem": 40.8618,
+        "Boylam": 27.993,
+        "Derinlik(km)": 8.0,
+        "ML": 1.6,
+        "Yer": "MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZIİlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "05:48:36",
+        "Enlem": 40.8532,
+        "Boylam": 28.3377,
+        "Derinlik(km)": 13.7,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "05:46:20",
+        "Enlem": 38.2407,
+        "Boylam": 38.899,
+        "Derinlik(km)": 5.0,
+        "ML": 1.7,
+        "Yer": "BAKIMLI-PUTURGE (MALATYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "05:39:12",
+        "Enlem": 39.2488,
+        "Boylam": 29.0203,
+        "Derinlik(km)": 6.1,
+        "ML": 1.9,
+        "Yer": "KATRANDAGI-EMET (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "05:34:26",
+        "Enlem": 40.867,
+        "Boylam": 28.4147,
+        "Derinlik(km)": 20.2,
+        "ML": 1.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "05:30:42",
+        "Enlem": 39.2563,
+        "Boylam": 28.9892,
+        "Derinlik(km)": 12.3,
+        "ML": 1.5,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "05:28:53",
+        "Enlem": 39.2413,
+        "Boylam": 29.0075,
+        "Derinlik(km)": 4.9,
+        "ML": 1.5,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "05:24:59",
+        "Enlem": 40.8535,
+        "Boylam": 28.451,
+        "Derinlik(km)": 5.7,
+        "ML": 2.8,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "05:13:23",
+        "Enlem": 39.2517,
+        "Boylam": 29.0195,
+        "Derinlik(km)": 5.6,
+        "ML": 1.5,
+        "Yer": "YESILDERE-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "05:12:43",
+        "Enlem": 40.8555,
+        "Boylam": 28.731,
+        "Derinlik(km)": 12.6,
+        "ML": 1.4,
+        "Yer": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "05:05:10",
+        "Enlem": 38.2512,
+        "Boylam": 27.9243,
+        "Derinlik(km)": 5.3,
+        "ML": 1.0,
+        "Yer": "ORTAKOY-ODEMIS (IZMIR) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "05:03:00",
+        "Enlem": 40.8518,
+        "Boylam": 28.4425,
+        "Derinlik(km)": 5.3,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:58:01",
+        "Enlem": 36.6522,
+        "Boylam": 25.485,
+        "Derinlik(km)": 5.9,
+        "ML": 1.5,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:56:46",
+        "Enlem": 40.878,
+        "Boylam": 28.3423,
+        "Derinlik(km)": 7.5,
+        "ML": 1.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:53:17",
+        "Enlem": 39.1082,
+        "Boylam": 29.0065,
+        "Derinlik(km)": 4.9,
+        "ML": 1.4,
+        "Yer": "GOKCELER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:52:28",
+        "Enlem": 39.0975,
+        "Boylam": 28.9905,
+        "Derinlik(km)": 11.9,
+        "ML": 1.4,
+        "Yer": "SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:50:06",
+        "Enlem": 39.1502,
+        "Boylam": 29.0652,
+        "Derinlik(km)": 5.2,
+        "ML": 0.6,
+        "Yer": "AHLATLICESME-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:44:07",
+        "Enlem": 36.1108,
+        "Boylam": 27.0792,
+        "Derinlik(km)": 6.0,
+        "ML": 1.6,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:43:48",
+        "Enlem": 40.4272,
+        "Boylam": 28.804,
+        "Derinlik(km)": 6.8,
+        "ML": 2.4,
+        "Yer": "GEMLIK KORFEZI (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:41:27",
+        "Enlem": 40.8433,
+        "Boylam": 28.7123,
+        "Derinlik(km)": 6.6,
+        "ML": 1.6,
+        "Yer": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:33:37",
+        "Enlem": 34.6258,
+        "Boylam": 26.5717,
+        "Derinlik(km)": 18.8,
+        "ML": 2.3,
+        "Yer": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:23:54",
+        "Enlem": 38.1702,
+        "Boylam": 37.4638,
+        "Derinlik(km)": 9.4,
+        "ML": 1.0,
+        "Yer": "TEPEBASI-ELBISTAN (KAHRAMANMARAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:22:12",
+        "Enlem": 39.2072,
+        "Boylam": 28.9872,
+        "Derinlik(km)": 5.0,
+        "ML": 1.7,
+        "Yer": "EGIRLER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:20:36",
+        "Enlem": 36.6592,
+        "Boylam": 25.6558,
+        "Derinlik(km)": 6.2,
+        "ML": 1.5,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:19:53",
+        "Enlem": 39.2088,
+        "Boylam": 29.0663,
+        "Derinlik(km)": 5.0,
+        "ML": 1.5,
+        "Yer": "KARACAOREN-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:19:17",
+        "Enlem": 39.2588,
+        "Boylam": 29.0027,
+        "Derinlik(km)": 5.3,
+        "ML": 1.8,
+        "Yer": "YESILDERE-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:16:05",
+        "Enlem": 36.6805,
+        "Boylam": 25.6047,
+        "Derinlik(km)": 4.0,
+        "ML": 1.3,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:09:56",
+        "Enlem": 38.1305,
+        "Boylam": 38.475,
+        "Derinlik(km)": 8.5,
+        "ML": 1.5,
+        "Yer": "AKSU-SINCIK (ADIYAMAN) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:07:43",
+        "Enlem": 40.8495,
+        "Boylam": 28.3332,
+        "Derinlik(km)": 14.3,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:06:54",
+        "Enlem": 38.1338,
+        "Boylam": 38.44,
+        "Derinlik(km)": 8.7,
+        "ML": 1.6,
+        "Yer": "AKSU-SINCIK (ADIYAMAN) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:00:39",
+        "Enlem": 39.2358,
+        "Boylam": 28.9998,
+        "Derinlik(km)": 7.0,
+        "ML": 1.9,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "04:00:23",
+        "Enlem": 38.112,
+        "Boylam": 38.4617,
+        "Derinlik(km)": 3.6,
+        "ML": 3.6,
+        "Yer": "AKSU-SINCIK (ADIYAMAN) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "03:54:50",
+        "Enlem": 40.9125,
+        "Boylam": 28.3758,
+        "Derinlik(km)": 22.5,
+        "ML": 1.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "03:50:59",
+        "Enlem": 40.8502,
+        "Boylam": 28.4183,
+        "Derinlik(km)": 5.5,
+        "ML": 1.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "03:47:13",
+        "Enlem": 40.8635,
+        "Boylam": 28.4142,
+        "Derinlik(km)": 12.3,
+        "ML": 3.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "03:36:14",
+        "Enlem": 38.4095,
+        "Boylam": 25.188,
+        "Derinlik(km)": 6.7,
+        "ML": 2.7,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "03:33:06",
+        "Enlem": 40.8593,
+        "Boylam": 28.4188,
+        "Derinlik(km)": 15.2,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "03:28:52",
+        "Enlem": 39.2503,
+        "Boylam": 29.0188,
+        "Derinlik(km)": 10.7,
+        "ML": 1.2,
+        "Yer": "YESILDERE-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "03:23:32",
+        "Enlem": 39.1853,
+        "Boylam": 29.09,
+        "Derinlik(km)": 4.1,
+        "ML": 1.0,
+        "Yer": "TOKAT-HISARCIK (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "03:19:05",
+        "Enlem": 35.1592,
+        "Boylam": 26.667,
+        "Derinlik(km)": 7.9,
+        "ML": 2.3,
+        "Yer": "GIRIT ADASI (AKDENIZ) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "03:11:23",
+        "Enlem": 35.2432,
+        "Boylam": 26.6162,
+        "Derinlik(km)": 8.8,
+        "ML": 3.2,
+        "Yer": "GIRIT ADASI (AKDENIZ) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "03:06:24",
+        "Enlem": 39.1922,
+        "Boylam": 28.993,
+        "Derinlik(km)": 6.2,
+        "ML": 1.0,
+        "Yer": "EGIRLER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "03:03:50",
+        "Enlem": 39.222,
+        "Boylam": 29.032,
+        "Derinlik(km)": 12.5,
+        "ML": 0.8,
+        "Yer": "EGIRLER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "02:55:07",
+        "Enlem": 36.666,
+        "Boylam": 25.6825,
+        "Derinlik(km)": 7.9,
+        "ML": 1.6,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "02:53:13",
+        "Enlem": 40.8452,
+        "Boylam": 28.2933,
+        "Derinlik(km)": 15.6,
+        "ML": 2.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "02:47:53",
+        "Enlem": 40.8622,
+        "Boylam": 28.7407,
+        "Derinlik(km)": 8.0,
+        "ML": 1.4,
+        "Yer": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "02:45:24",
+        "Enlem": 38.3318,
+        "Boylam": 38.131,
+        "Derinlik(km)": 5.5,
+        "ML": 1.4,
+        "Yer": "KUYULU-YESILYURT (MALATYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "02:39:46",
+        "Enlem": 39.1745,
+        "Boylam": 28.9725,
+        "Derinlik(km)": 19.3,
+        "ML": 1.3,
+        "Yer": "NASA-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "02:36:01",
+        "Enlem": 39.2365,
+        "Boylam": 29.0087,
+        "Derinlik(km)": 10.9,
+        "ML": 1.6,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "02:20:23",
+        "Enlem": 38.3402,
+        "Boylam": 37.5318,
+        "Derinlik(km)": 8.5,
+        "ML": 1.4,
+        "Yer": "YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "02:12:17",
+        "Enlem": 39.204,
+        "Boylam": 29.0103,
+        "Derinlik(km)": 4.6,
+        "ML": 1.5,
+        "Yer": "EGIRLER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "02:07:59",
+        "Enlem": 37.1283,
+        "Boylam": 28.3338,
+        "Derinlik(km)": 3.6,
+        "ML": 1.1,
+        "Yer": "DOGAN-(MUGLA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "02:05:13",
+        "Enlem": 35.325,
+        "Boylam": 23.4993,
+        "Derinlik(km)": 1.1,
+        "ML": 2.0,
+        "Yer": "GIRIT ADASI (AKDENIZ) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "02:02:52",
+        "Enlem": 39.2432,
+        "Boylam": 28.9978,
+        "Derinlik(km)": 5.5,
+        "ML": 2.7,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "01:58:06",
+        "Enlem": 36.6327,
+        "Boylam": 25.8193,
+        "Derinlik(km)": 8.2,
+        "ML": 2.3,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "01:51:19",
+        "Enlem": 39.2312,
+        "Boylam": 29.0437,
+        "Derinlik(km)": 2.8,
+        "ML": 1.3,
+        "Yer": "KATRANDAGI-EMET (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "01:48:34",
+        "Enlem": 40.8278,
+        "Boylam": 28.3815,
+        "Derinlik(km)": 13.2,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "01:47:03",
+        "Enlem": 40.8597,
+        "Boylam": 28.7278,
+        "Derinlik(km)": 10.6,
+        "ML": 1.7,
+        "Yer": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "01:31:17",
+        "Enlem": 40.8797,
+        "Boylam": 28.3213,
+        "Derinlik(km)": 4.4,
+        "ML": 1.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "01:25:42",
+        "Enlem": 36.6067,
+        "Boylam": 25.4805,
+        "Derinlik(km)": 11.7,
+        "ML": 1.9,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "01:22:34",
+        "Enlem": 39.2187,
+        "Boylam": 29.024,
+        "Derinlik(km)": 12.2,
+        "ML": 1.3,
+        "Yer": "EGIRLER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "01:22:22",
+        "Enlem": 39.2025,
+        "Boylam": 28.9547,
+        "Derinlik(km)": 5.0,
+        "ML": 1.8,
+        "Yer": "HAMZABEY-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "01:20:07",
+        "Enlem": 39.2332,
+        "Boylam": 29.0263,
+        "Derinlik(km)": 14.8,
+        "ML": 1.5,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "01:15:35",
+        "Enlem": 36.6903,
+        "Boylam": 25.6058,
+        "Derinlik(km)": 5.0,
+        "ML": 1.3,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "01:14:51",
+        "Enlem": 39.0692,
+        "Boylam": 26.9505,
+        "Derinlik(km)": 5.0,
+        "ML": 2.0,
+        "Yer": "KOCAOBA-DIKILI (IZMIR) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "01:09:24",
+        "Enlem": 39.2302,
+        "Boylam": 29.0688,
+        "Derinlik(km)": 5.0,
+        "ML": 1.3,
+        "Yer": "KATRANDAGI-EMET (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "00:54:21",
+        "Enlem": 39.2128,
+        "Boylam": 29.0243,
+        "Derinlik(km)": 3.6,
+        "ML": 1.1,
+        "Yer": "EGIRLER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "00:52:58",
+        "Enlem": 40.8425,
+        "Boylam": 28.4475,
+        "Derinlik(km)": 25.0,
+        "ML": 1.6,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "00:46:31",
+        "Enlem": 39.2468,
+        "Boylam": 29.0093,
+        "Derinlik(km)": 5.5,
+        "ML": 1.9,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "00:43:47",
+        "Enlem": 39.186,
+        "Boylam": 29.044,
+        "Derinlik(km)": 3.0,
+        "ML": 0.7,
+        "Yer": "KARACAOREN-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "00:37:24",
+        "Enlem": 38.1665,
+        "Boylam": 36.8772,
+        "Derinlik(km)": 5.8,
+        "ML": 2.3,
+        "Yer": "ESENCE-AFSIN (KAHRAMANMARAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "00:16:25",
+        "Enlem": 39.2415,
+        "Boylam": 28.985,
+        "Derinlik(km)": 7.1,
+        "ML": 2.1,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "00:15:07",
+        "Enlem": 40.839,
+        "Boylam": 28.3048,
+        "Derinlik(km)": 12.2,
+        "ML": 2.7,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.26",
+        "Saat": "00:11:17",
+        "Enlem": 39.2372,
+        "Boylam": 29.0102,
+        "Derinlik(km)": 10.3,
+        "ML": 2.0,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "23:51:35",
+        "Enlem": 39.2442,
+        "Boylam": 28.9997,
+        "Derinlik(km)": 11.7,
+        "ML": 1.8,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "23:43:31",
+        "Enlem": 39.2427,
+        "Boylam": 28.9907,
+        "Derinlik(km)": 5.3,
+        "ML": 2.9,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "23:36:31",
+        "Enlem": 40.8438,
+        "Boylam": 28.439,
+        "Derinlik(km)": 9.1,
+        "ML": 3.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "23:14:46",
+        "Enlem": 40.8632,
+        "Boylam": 28.4203,
+        "Derinlik(km)": 12.5,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "23:02:09",
+        "Enlem": 40.8543,
+        "Boylam": 28.418,
+        "Derinlik(km)": 11.1,
+        "ML": 2.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:55:53",
+        "Enlem": 40.8387,
+        "Boylam": 28.4323,
+        "Derinlik(km)": 10.3,
+        "ML": 3.4,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:54:38",
+        "Enlem": 40.8462,
+        "Boylam": 28.4073,
+        "Derinlik(km)": 15.0,
+        "ML": 3.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:51:24",
+        "Enlem": 40.8578,
+        "Boylam": 28.4143,
+        "Derinlik(km)": 10.6,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:46:43",
+        "Enlem": 40.8512,
+        "Boylam": 28.4235,
+        "Derinlik(km)": 12.7,
+        "ML": 2.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:42:24",
+        "Enlem": 40.8385,
+        "Boylam": 28.3463,
+        "Derinlik(km)": 13.9,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:41:35",
+        "Enlem": 39.3578,
+        "Boylam": 28.8762,
+        "Derinlik(km)": 5.8,
+        "ML": 1.4,
+        "Yer": "INKAYA-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:41:21",
+        "Enlem": 39.2353,
+        "Boylam": 29.0277,
+        "Derinlik(km)": 5.5,
+        "ML": 2.1,
+        "Yer": "KATRANDAGI-EMET (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:40:42",
+        "Enlem": 39.2505,
+        "Boylam": 28.9938,
+        "Derinlik(km)": 5.4,
+        "ML": 1.9,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:39:01",
+        "Enlem": 40.8355,
+        "Boylam": 28.6557,
+        "Derinlik(km)": 10.1,
+        "ML": 1.7,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:36:16",
+        "Enlem": 40.8445,
+        "Boylam": 28.3367,
+        "Derinlik(km)": 13.5,
+        "ML": 2.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:22:20",
+        "Enlem": 40.856,
+        "Boylam": 28.4147,
+        "Derinlik(km)": 5.2,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:21:38",
+        "Enlem": 40.8478,
+        "Boylam": 28.4365,
+        "Derinlik(km)": 7.0,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:14:33",
+        "Enlem": 40.8487,
+        "Boylam": 28.398,
+        "Derinlik(km)": 1.7,
+        "ML": 1.7,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:13:50",
+        "Enlem": 40.863,
+        "Boylam": 28.279,
+        "Derinlik(km)": 10.3,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:12:10",
+        "Enlem": 40.8572,
+        "Boylam": 28.418,
+        "Derinlik(km)": 4.5,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:10:28",
+        "Enlem": 40.851,
+        "Boylam": 28.4372,
+        "Derinlik(km)": 4.8,
+        "ML": 2.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:04:11",
+        "Enlem": 40.8457,
+        "Boylam": 28.411,
+        "Derinlik(km)": 12.6,
+        "ML": 2.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "22:03:22",
+        "Enlem": 40.8373,
+        "Boylam": 28.1358,
+        "Derinlik(km)": 13.8,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:57:31",
+        "Enlem": 40.8565,
+        "Boylam": 28.4778,
+        "Derinlik(km)": 5.2,
+        "ML": 1.6,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:55:40",
+        "Enlem": 40.8587,
+        "Boylam": 28.4697,
+        "Derinlik(km)": 11.6,
+        "ML": 1.5,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:48:08",
+        "Enlem": 38.1298,
+        "Boylam": 36.55,
+        "Derinlik(km)": 5.0,
+        "ML": 1.9,
+        "Yer": "CAMDERE-GOKSUN (KAHRAMANMARAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:45:36",
+        "Enlem": 39.2563,
+        "Boylam": 28.9653,
+        "Derinlik(km)": 11.8,
+        "ML": 1.6,
+        "Yer": "YENILER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:37:26",
+        "Enlem": 38.8832,
+        "Boylam": 38.2278,
+        "Derinlik(km)": 17.2,
+        "ML": 1.5,
+        "Yer": "GUNGOREN-ARGUVAN (MALATYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:30:36",
+        "Enlem": 35.745,
+        "Boylam": 25.4485,
+        "Derinlik(km)": 12.9,
+        "ML": 2.6,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:17:23",
+        "Enlem": 40.6235,
+        "Boylam": 23.7955,
+        "Derinlik(km)": 5.4,
+        "ML": 2.9,
+        "Yer": "YUNANISTAN İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:14:54",
+        "Enlem": 40.8448,
+        "Boylam": 28.4292,
+        "Derinlik(km)": 6.2,
+        "ML": 2.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:10:49",
+        "Enlem": 40.8545,
+        "Boylam": 28.412,
+        "Derinlik(km)": 13.1,
+        "ML": 2.2,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:08:57",
+        "Enlem": 40.8495,
+        "Boylam": 28.4177,
+        "Derinlik(km)": 16.1,
+        "ML": 3.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:07:11",
+        "Enlem": 40.8212,
+        "Boylam": 28.2873,
+        "Derinlik(km)": 10.2,
+        "ML": 3.9,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:06:56",
+        "Enlem": 40.8363,
+        "Boylam": 28.4048,
+        "Derinlik(km)": 11.4,
+        "ML": 3.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:03:45",
+        "Enlem": 40.799,
+        "Boylam": 28.4403,
+        "Derinlik(km)": 5.8,
+        "ML": 2.1,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:03:25",
+        "Enlem": 39.2453,
+        "Boylam": 28.9633,
+        "Derinlik(km)": 14.9,
+        "ML": 2.2,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "21:01:01",
+        "Enlem": 40.8653,
+        "Boylam": 28.3667,
+        "Derinlik(km)": 11.9,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:59:15",
+        "Enlem": 40.8502,
+        "Boylam": 28.405,
+        "Derinlik(km)": 13.0,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:55:46",
+        "Enlem": 40.8588,
+        "Boylam": 28.3538,
+        "Derinlik(km)": 7.8,
+        "ML": 2.1,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:53:08",
+        "Enlem": 34.6728,
+        "Boylam": 24.033,
+        "Derinlik(km)": 101.9,
+        "ML": 2.3,
+        "Yer": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:53:04",
+        "Enlem": 40.8608,
+        "Boylam": 28.7497,
+        "Derinlik(km)": 4.0,
+        "ML": 1.9,
+        "Yer": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:46:53",
+        "Enlem": 40.8488,
+        "Boylam": 28.4243,
+        "Derinlik(km)": 13.4,
+        "ML": 2.4,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:46:18",
+        "Enlem": 39.2483,
+        "Boylam": 28.9933,
+        "Derinlik(km)": 5.4,
+        "ML": 2.4,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:39:18",
+        "Enlem": 40.8525,
+        "Boylam": 28.4467,
+        "Derinlik(km)": 5.1,
+        "ML": 2.2,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:38:08",
+        "Enlem": 40.8558,
+        "Boylam": 28.4175,
+        "Derinlik(km)": 7.2,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:33:16",
+        "Enlem": 40.829,
+        "Boylam": 28.4375,
+        "Derinlik(km)": 7.4,
+        "ML": 4.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:30:28",
+        "Enlem": 40.8528,
+        "Boylam": 28.4427,
+        "Derinlik(km)": 17.4,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:28:04",
+        "Enlem": 40.87,
+        "Boylam": 28.4518,
+        "Derinlik(km)": 13.1,
+        "ML": 1.8,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:26:05",
+        "Enlem": 40.8623,
+        "Boylam": 28.442,
+        "Derinlik(km)": 17.8,
+        "ML": 2.0,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "20:21:46",
+        "Enlem": 40.8317,
+        "Boylam": 28.4337,
+        "Derinlik(km)": 7.0,
+        "ML": 3.7,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "19:50:48",
+        "Enlem": 39.2313,
+        "Boylam": 29.0005,
+        "Derinlik(km)": 10.4,
+        "ML": 1.8,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "19:42:42",
+        "Enlem": 39.2328,
+        "Boylam": 28.9968,
+        "Derinlik(km)": 11.2,
+        "ML": 2.4,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) REVIZE01 (2025.04.25 19:42:42)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "19:28:45",
+        "Enlem": 40.8313,
+        "Boylam": 28.4445,
+        "Derinlik(km)": 8.6,
+        "ML": 2.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "18:38:24",
+        "Enlem": 39.2375,
+        "Boylam": 29.0023,
+        "Derinlik(km)": 11.6,
+        "ML": 2.1,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "18:34:30",
+        "Enlem": 40.8462,
+        "Boylam": 28.7207,
+        "Derinlik(km)": 3.9,
+        "ML": 2.8,
+        "Yer": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI) REVIZE01 (2025.04.25 18:34:29)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "18:32:03",
+        "Enlem": 40.8553,
+        "Boylam": 28.7033,
+        "Derinlik(km)": 6.7,
+        "ML": 3.6,
+        "Yer": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI) REVIZE02 (2025.04.25 18:32:03)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "18:30:05",
+        "Enlem": 40.8407,
+        "Boylam": 28.4208,
+        "Derinlik(km)": 7.3,
+        "ML": 2.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "18:00:09",
+        "Enlem": 39.2417,
+        "Boylam": 28.9953,
+        "Derinlik(km)": 5.4,
+        "ML": 2.4,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "17:34:46",
+        "Enlem": 40.8708,
+        "Boylam": 28.4613,
+        "Derinlik(km)": 5.0,
+        "ML": 2.0,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "17:34:07",
+        "Enlem": 40.8613,
+        "Boylam": 28.4318,
+        "Derinlik(km)": 3.8,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "17:31:00",
+        "Enlem": 36.6667,
+        "Boylam": 36.3082,
+        "Derinlik(km)": 8.8,
+        "ML": 1.8,
+        "Yer": "KALEDIBI-ISKENDERUN (HATAY) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "17:29:27",
+        "Enlem": 40.857,
+        "Boylam": 28.45,
+        "Derinlik(km)": 4.5,
+        "ML": 2.4,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "17:26:18",
+        "Enlem": 40.807,
+        "Boylam": 28.4778,
+        "Derinlik(km)": 11.9,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "17:22:11",
+        "Enlem": 40.8382,
+        "Boylam": 28.4305,
+        "Derinlik(km)": 13.8,
+        "ML": 2.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "17:21:21",
+        "Enlem": 40.8602,
+        "Boylam": 28.4305,
+        "Derinlik(km)": 15.7,
+        "ML": 3.2,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "17:20:11",
+        "Enlem": 40.8548,
+        "Boylam": 28.4895,
+        "Derinlik(km)": 5.3,
+        "ML": 2.2,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "17:03:48",
+        "Enlem": 40.8245,
+        "Boylam": 28.4447,
+        "Derinlik(km)": 13.9,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "16:57:07",
+        "Enlem": 39.2363,
+        "Boylam": 28.9752,
+        "Derinlik(km)": 2.5,
+        "ML": 1.8,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "16:44:36",
+        "Enlem": 39.2562,
+        "Boylam": 28.913,
+        "Derinlik(km)": 5.9,
+        "ML": 2.0,
+        "Yer": "KAYALIDERE-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "16:34:02",
+        "Enlem": 39.249,
+        "Boylam": 28.98,
+        "Derinlik(km)": 7.7,
+        "ML": 1.6,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "16:31:58",
+        "Enlem": 40.8325,
+        "Boylam": 28.332,
+        "Derinlik(km)": 13.6,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "15:47:18",
+        "Enlem": 39.2542,
+        "Boylam": 28.9548,
+        "Derinlik(km)": 5.5,
+        "ML": 1.6,
+        "Yer": "YENILER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "15:46:18",
+        "Enlem": 39.245,
+        "Boylam": 29.0147,
+        "Derinlik(km)": 14.1,
+        "ML": 1.6,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "15:45:12",
+        "Enlem": 39.5,
+        "Boylam": 32.752,
+        "Derinlik(km)": 7.3,
+        "ML": 2.3,
+        "Yer": "CULUK-HAYMANA (ANKARA) REVIZE01 (2025.04.25 15:45:12)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "15:41:33",
+        "Enlem": 35.76,
+        "Boylam": 25.4822,
+        "Derinlik(km)": 3.0,
+        "ML": 2.4,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "15:39:45",
+        "Enlem": 39.5158,
+        "Boylam": 32.7715,
+        "Derinlik(km)": 10.5,
+        "ML": 2.2,
+        "Yer": "CULUK-HAYMANA (ANKARA) REVIZE02 (2025.04.25 15:39:45)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "15:15:41",
+        "Enlem": 40.8182,
+        "Boylam": 28.4727,
+        "Derinlik(km)": 18.8,
+        "ML": 2.1,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "15:12:14",
+        "Enlem": 40.7563,
+        "Boylam": 28.244,
+        "Derinlik(km)": 10.4,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "15:07:27",
+        "Enlem": 40.8252,
+        "Boylam": 28.4037,
+        "Derinlik(km)": 20.5,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "15:03:21",
+        "Enlem": 39.2592,
+        "Boylam": 29.0648,
+        "Derinlik(km)": 1.2,
+        "ML": 1.9,
+        "Yer": "KATRANDAGI-EMET (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "14:49:17",
+        "Enlem": 40.8653,
+        "Boylam": 28.461,
+        "Derinlik(km)": 19.8,
+        "ML": 3.4,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "14:42:34",
+        "Enlem": 40.8528,
+        "Boylam": 28.334,
+        "Derinlik(km)": 19.8,
+        "ML": 1.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "14:14:06",
+        "Enlem": 40.8562,
+        "Boylam": 28.369,
+        "Derinlik(km)": 22.2,
+        "ML": 1.7,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "14:09:34",
+        "Enlem": 39.2573,
+        "Boylam": 29.014,
+        "Derinlik(km)": 6.7,
+        "ML": 1.7,
+        "Yer": "YESILDERE-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "14:03:20",
+        "Enlem": 39.2622,
+        "Boylam": 28.9575,
+        "Derinlik(km)": 9.1,
+        "ML": 1.2,
+        "Yer": "KARAKOCA-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "14:01:42",
+        "Enlem": 40.7902,
+        "Boylam": 28.1497,
+        "Derinlik(km)": 7.7,
+        "ML": 1.7,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "13:57:52",
+        "Enlem": 40.8457,
+        "Boylam": 28.4022,
+        "Derinlik(km)": 18.1,
+        "ML": 1.7,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "13:33:26",
+        "Enlem": 40.8045,
+        "Boylam": 28.2508,
+        "Derinlik(km)": 9.4,
+        "ML": 1.8,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "13:19:28",
+        "Enlem": 40.8542,
+        "Boylam": 28.3345,
+        "Derinlik(km)": 22.0,
+        "ML": 2.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "13:09:06",
+        "Enlem": 39.232,
+        "Boylam": 28.9933,
+        "Derinlik(km)": 5.1,
+        "ML": 2.3,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "13:05:43",
+        "Enlem": 39.3917,
+        "Boylam": 28.2095,
+        "Derinlik(km)": 4.2,
+        "ML": 1.9,
+        "Yer": "DURASILAR-BIGADIC (BALIKESIR) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "12:52:49",
+        "Enlem": 40.8482,
+        "Boylam": 28.3622,
+        "Derinlik(km)": 17.8,
+        "ML": 2.1,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "12:48:33",
+        "Enlem": 39.2432,
+        "Boylam": 28.944,
+        "Derinlik(km)": 17.6,
+        "ML": 1.6,
+        "Yer": "YENILER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "12:33:59",
+        "Enlem": 39.2227,
+        "Boylam": 29.0678,
+        "Derinlik(km)": 5.0,
+        "ML": 1.5,
+        "Yer": "KATRANDAGI-EMET (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "12:33:36",
+        "Enlem": 39.2403,
+        "Boylam": 28.998,
+        "Derinlik(km)": 4.1,
+        "ML": 2.0,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "12:26:34",
+        "Enlem": 39.2603,
+        "Boylam": 28.9927,
+        "Derinlik(km)": 5.3,
+        "ML": 2.3,
+        "Yer": "YESILDERE-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "12:26:07",
+        "Enlem": 37.1827,
+        "Boylam": 36.9657,
+        "Derinlik(km)": 5.3,
+        "ML": 1.8,
+        "Yer": "SAKCAGOZE-NURDAGI (GAZIANTEP) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "12:21:15",
+        "Enlem": 39.2253,
+        "Boylam": 28.9732,
+        "Derinlik(km)": 6.1,
+        "ML": 2.4,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "12:16:31",
+        "Enlem": 39.1905,
+        "Boylam": 29.0552,
+        "Derinlik(km)": 1.0,
+        "ML": 1.5,
+        "Yer": "KARACAOREN-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "12:15:56",
+        "Enlem": 39.254,
+        "Boylam": 28.918,
+        "Derinlik(km)": 5.5,
+        "ML": 1.8,
+        "Yer": "KAYALIDERE-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "12:06:15",
+        "Enlem": 39.2398,
+        "Boylam": 28.9907,
+        "Derinlik(km)": 5.4,
+        "ML": 1.8,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "12:04:06",
+        "Enlem": 39.1643,
+        "Boylam": 28.9517,
+        "Derinlik(km)": 6.0,
+        "ML": 1.5,
+        "Yer": "NASA-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:53:23",
+        "Enlem": 39.2647,
+        "Boylam": 28.9788,
+        "Derinlik(km)": 5.8,
+        "ML": 1.7,
+        "Yer": "YESILDERE-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:50:46",
+        "Enlem": 34.4117,
+        "Boylam": 23.5025,
+        "Derinlik(km)": 84.1,
+        "ML": 3.1,
+        "Yer": "GIRIT ADASI (AKDENIZ) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:46:58",
+        "Enlem": 39.25,
+        "Boylam": 29.01,
+        "Derinlik(km)": 5.3,
+        "ML": 2.8,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:43:44",
+        "Enlem": 39.2625,
+        "Boylam": 28.9817,
+        "Derinlik(km)": 4.7,
+        "ML": 2.4,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:37:17",
+        "Enlem": 39.2395,
+        "Boylam": 29.0217,
+        "Derinlik(km)": 6.8,
+        "ML": 2.3,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:33:23",
+        "Enlem": 39.1963,
+        "Boylam": 29.0698,
+        "Derinlik(km)": 13.3,
+        "ML": 1.9,
+        "Yer": "KARACAOREN-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:31:59",
+        "Enlem": 39.2962,
+        "Boylam": 29.0038,
+        "Derinlik(km)": 5.3,
+        "ML": 1.3,
+        "Yer": "YESILDERE-SIMAV (KUTAHYA) REVIZE01 (2025.04.25 11:31:59)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:30:19",
+        "Enlem": 39.2295,
+        "Boylam": 28.9957,
+        "Derinlik(km)": 13.6,
+        "ML": 1.3,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) REVIZE01 (2025.04.25 11:30:19)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:26:04",
+        "Enlem": 39.2008,
+        "Boylam": 29.053,
+        "Derinlik(km)": 11.6,
+        "ML": 1.6,
+        "Yer": "KARACAOREN-SIMAV (KUTAHYA) REVIZE01 (2025.04.25 11:26:12)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:25:00",
+        "Enlem": 39.3123,
+        "Boylam": 28.8987,
+        "Derinlik(km)": 14.3,
+        "ML": 2.2,
+        "Yer": "ORTACA-SIMAV (KUTAHYA) REVIZE01 (2025.04.25 11:25:02)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:24:41",
+        "Enlem": 39.206,
+        "Boylam": 28.9998,
+        "Derinlik(km)": 12.2,
+        "ML": 1.7,
+        "Yer": "EGIRLER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:11:03",
+        "Enlem": 39.2517,
+        "Boylam": 28.9512,
+        "Derinlik(km)": 6.0,
+        "ML": 2.5,
+        "Yer": "YENILER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:04:57",
+        "Enlem": 39.2602,
+        "Boylam": 28.9967,
+        "Derinlik(km)": 5.3,
+        "ML": 2.7,
+        "Yer": "YESILDERE-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "11:02:48",
+        "Enlem": 39.2332,
+        "Boylam": 29.011,
+        "Derinlik(km)": 12.1,
+        "ML": 1.6,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:50:32",
+        "Enlem": 39.2425,
+        "Boylam": 29.0153,
+        "Derinlik(km)": 10.5,
+        "ML": 1.7,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:46:51",
+        "Enlem": 39.2513,
+        "Boylam": 28.9822,
+        "Derinlik(km)": 12.5,
+        "ML": 1.6,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:42:21",
+        "Enlem": 39.2413,
+        "Boylam": 28.9845,
+        "Derinlik(km)": 17.9,
+        "ML": 1.9,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:41:32",
+        "Enlem": 39.2353,
+        "Boylam": 28.8815,
+        "Derinlik(km)": 16.8,
+        "ML": 1.7,
+        "Yer": "KOYUNOBA-SIMAV (KUTAHYA) REVIZE01 (2025.04.25 10:41:32)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:38:09",
+        "Enlem": 36.6225,
+        "Boylam": 25.5463,
+        "Derinlik(km)": 7.2,
+        "ML": 2.5,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:29:39",
+        "Enlem": 39.1412,
+        "Boylam": 29.0028,
+        "Derinlik(km)": 1.6,
+        "ML": 1.8,
+        "Yer": "HACIAHMETOGLU-SIMAV (KUTAHYA) REVIZE01 (2025.04.25 10:29:39)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:29:17",
+        "Enlem": 39.228,
+        "Boylam": 29.0372,
+        "Derinlik(km)": 9.5,
+        "ML": 1.9,
+        "Yer": "KATRANDAGI-EMET (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:27:01",
+        "Enlem": 39.2525,
+        "Boylam": 28.9465,
+        "Derinlik(km)": 7.4,
+        "ML": 2.8,
+        "Yer": "YENILER-SIMAV (KUTAHYA) REVIZE01 (2025.04.25 10:27:01)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:25:34",
+        "Enlem": 39.242,
+        "Boylam": 28.9877,
+        "Derinlik(km)": 10.5,
+        "ML": 2.3,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) REVIZE01 (2025.04.25 10:25:34)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:23:54",
+        "Enlem": 39.2027,
+        "Boylam": 29.059,
+        "Derinlik(km)": 14.5,
+        "ML": 2.1,
+        "Yer": "KARACAOREN-SIMAV (KUTAHYA) REVIZE01 (2025.04.25 10:23:54)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:22:34",
+        "Enlem": 39.2495,
+        "Boylam": 28.956,
+        "Derinlik(km)": 5.4,
+        "ML": 2.1,
+        "Yer": "YENILER-SIMAV (KUTAHYA) REVIZE01 (2025.04.25 10:22:34)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:20:02",
+        "Enlem": 39.2465,
+        "Boylam": 28.9785,
+        "Derinlik(km)": 5.5,
+        "ML": 4.8,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "10:05:31",
+        "Enlem": 39.2522,
+        "Boylam": 29.0302,
+        "Derinlik(km)": 7.3,
+        "ML": 1.3,
+        "Yer": "KATRANDAGI-EMET (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "09:45:20",
+        "Enlem": 40.847,
+        "Boylam": 28.4673,
+        "Derinlik(km)": 20.4,
+        "ML": 2.0,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "09:37:26",
+        "Enlem": 38.3263,
+        "Boylam": 37.3928,
+        "Derinlik(km)": 14.0,
+        "ML": 1.7,
+        "Yer": "AKSAKAL-ELBISTAN (KAHRAMANMARAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "09:20:50",
+        "Enlem": 40.8493,
+        "Boylam": 28.4913,
+        "Derinlik(km)": 24.3,
+        "ML": 1.7,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "09:20:21",
+        "Enlem": 39.244,
+        "Boylam": 28.9783,
+        "Derinlik(km)": 10.5,
+        "ML": 2.2,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:58:33",
+        "Enlem": 39.2195,
+        "Boylam": 28.9313,
+        "Derinlik(km)": 7.3,
+        "ML": 2.2,
+        "Yer": "HAMZABEY-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:51:19",
+        "Enlem": 38.7657,
+        "Boylam": 36.9,
+        "Derinlik(km)": 4.9,
+        "ML": 1.7,
+        "Yer": "BEYPINAR-GURUN (SIVAS) REVIZE01 (2025.04.25 08:51:19)"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:50:32",
+        "Enlem": 39.2152,
+        "Boylam": 28.9565,
+        "Derinlik(km)": 5.4,
+        "ML": 1.4,
+        "Yer": "HAMZABEY-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:39:59",
+        "Enlem": 40.8502,
+        "Boylam": 28.463,
+        "Derinlik(km)": 19.2,
+        "ML": 3.7,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:37:27",
+        "Enlem": 38.461,
+        "Boylam": 28.46,
+        "Derinlik(km)": 4.9,
+        "ML": 2.4,
+        "Yer": "TOYGAR-ALASEHIR (MANISA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:35:19",
+        "Enlem": 39.2578,
+        "Boylam": 28.9893,
+        "Derinlik(km)": 9.8,
+        "ML": 2.0,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:34:56",
+        "Enlem": 39.2618,
+        "Boylam": 28.972,
+        "Derinlik(km)": 7.9,
+        "ML": 2.4,
+        "Yer": "KARAKOCA-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:32:30",
+        "Enlem": 39.2197,
+        "Boylam": 28.9928,
+        "Derinlik(km)": 5.9,
+        "ML": 1.3,
+        "Yer": "EGIRLER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:30:18",
+        "Enlem": 37.872,
+        "Boylam": 26.8643,
+        "Derinlik(km)": 6.2,
+        "ML": 1.9,
+        "Yer": "KUSADASI KORFEZI (EGE DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:23:21",
+        "Enlem": 39.4478,
+        "Boylam": 27.94,
+        "Derinlik(km)": 6.5,
+        "ML": 2.5,
+        "Yer": "AKCAKOY-(BALIKESIR) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:20:57",
+        "Enlem": 39.2625,
+        "Boylam": 28.9595,
+        "Derinlik(km)": 5.6,
+        "ML": 1.4,
+        "Yer": "KARAKOCA-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:15:32",
+        "Enlem": 36.0362,
+        "Boylam": 28.9377,
+        "Derinlik(km)": 10.6,
+        "ML": 3.1,
+        "Yer": "AKDENIZ İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:12:09",
+        "Enlem": 39.271,
+        "Boylam": 28.9717,
+        "Derinlik(km)": 7.6,
+        "ML": 1.3,
+        "Yer": "KARAKOCA-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:07:14",
+        "Enlem": 39.2245,
+        "Boylam": 29.0758,
+        "Derinlik(km)": 1.7,
+        "ML": 1.6,
+        "Yer": "KATRANDAGI-EMET (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:06:08",
+        "Enlem": 39.2335,
+        "Boylam": 28.9298,
+        "Derinlik(km)": 11.0,
+        "ML": 1.7,
+        "Yer": "YENILER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "08:04:29",
+        "Enlem": 39.2408,
+        "Boylam": 28.9935,
+        "Derinlik(km)": 11.0,
+        "ML": 1.3,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:59:54",
+        "Enlem": 39.2458,
+        "Boylam": 28.9822,
+        "Derinlik(km)": 5.3,
+        "ML": 2.1,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:49:01",
+        "Enlem": 39.249,
+        "Boylam": 29.0045,
+        "Derinlik(km)": 10.4,
+        "ML": 2.4,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:46:43",
+        "Enlem": 39.1973,
+        "Boylam": 29.0478,
+        "Derinlik(km)": 9.3,
+        "ML": 1.6,
+        "Yer": "KARACAOREN-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:41:11",
+        "Enlem": 39.2083,
+        "Boylam": 29.0033,
+        "Derinlik(km)": 5.4,
+        "ML": 1.6,
+        "Yer": "EGIRLER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:40:21",
+        "Enlem": 39.2538,
+        "Boylam": 29.003,
+        "Derinlik(km)": 12.3,
+        "ML": 1.9,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:32:46",
+        "Enlem": 39.2445,
+        "Boylam": 29.0622,
+        "Derinlik(km)": 4.5,
+        "ML": 1.6,
+        "Yer": "KATRANDAGI-EMET (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:31:31",
+        "Enlem": 39.2135,
+        "Boylam": 28.9563,
+        "Derinlik(km)": 10.9,
+        "ML": 2.0,
+        "Yer": "HAMZABEY-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:29:22",
+        "Enlem": 39.2453,
+        "Boylam": 28.9848,
+        "Derinlik(km)": 6.2,
+        "ML": 3.9,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:26:57",
+        "Enlem": 39.2478,
+        "Boylam": 28.9212,
+        "Derinlik(km)": 10.6,
+        "ML": 2.1,
+        "Yer": "YENILER-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:23:43",
+        "Enlem": 39.2578,
+        "Boylam": 28.9682,
+        "Derinlik(km)": 9.2,
+        "ML": 4.6,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:20:46",
+        "Enlem": 37.9415,
+        "Boylam": 36.612,
+        "Derinlik(km)": 7.9,
+        "ML": 1.9,
+        "Yer": "KURUCAOVA-(KAHRAMANMARAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:14:25",
+        "Enlem": 35.7433,
+        "Boylam": 25.4872,
+        "Derinlik(km)": 11.2,
+        "ML": 2.5,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "07:00:34",
+        "Enlem": 40.8228,
+        "Boylam": 28.1687,
+        "Derinlik(km)": 7.9,
+        "ML": 3.0,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "06:43:56",
+        "Enlem": 38.2995,
+        "Boylam": 37.726,
+        "Derinlik(km)": 10.3,
+        "ML": 1.4,
+        "Yer": "CEVIRME-AKCADAG (MALATYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "06:35:53",
+        "Enlem": 37.8327,
+        "Boylam": 26.9128,
+        "Derinlik(km)": 1.3,
+        "ML": 2.1,
+        "Yer": "KUSADASI KORFEZI (EGE DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "06:30:03",
+        "Enlem": 37.8485,
+        "Boylam": 26.9145,
+        "Derinlik(km)": 5.0,
+        "ML": 2.2,
+        "Yer": "KUSADASI KORFEZI (EGE DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "06:27:42",
+        "Enlem": 40.854,
+        "Boylam": 28.4765,
+        "Derinlik(km)": 5.2,
+        "ML": 2.3,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "06:26:12",
+        "Enlem": 36.6063,
+        "Boylam": 25.4155,
+        "Derinlik(km)": 9.5,
+        "ML": 2.0,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "06:24:50",
+        "Enlem": 37.8747,
+        "Boylam": 26.8383,
+        "Derinlik(km)": 6.8,
+        "ML": 1.5,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "06:12:27",
+        "Enlem": 35.7825,
+        "Boylam": 25.4248,
+        "Derinlik(km)": 5.0,
+        "ML": 2.2,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "06:05:18",
+        "Enlem": 40.3828,
+        "Boylam": 26.165,
+        "Derinlik(km)": 14.0,
+        "ML": 1.3,
+        "Yer": "SAROS KORFEZI (EGE DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "05:58:59",
+        "Enlem": 36.7007,
+        "Boylam": 25.7337,
+        "Derinlik(km)": 1.1,
+        "ML": 1.6,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "05:56:05",
+        "Enlem": 40.3167,
+        "Boylam": 24.1505,
+        "Derinlik(km)": 10.5,
+        "ML": 1.6,
+        "Yer": "YUNANISTAN İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "05:38:16",
+        "Enlem": 36.6818,
+        "Boylam": 25.6622,
+        "Derinlik(km)": 10.4,
+        "ML": 2.2,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "05:31:41",
+        "Enlem": 40.8603,
+        "Boylam": 28.4253,
+        "Derinlik(km)": 6.1,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "05:28:54",
+        "Enlem": 39.2438,
+        "Boylam": 27.9825,
+        "Derinlik(km)": 17.2,
+        "ML": 1.3,
+        "Yer": "HACET-KIRKAGAC (MANISA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "05:20:17",
+        "Enlem": 37.9832,
+        "Boylam": 36.4063,
+        "Derinlik(km)": 4.9,
+        "ML": 1.4,
+        "Yer": "HUGTAS-GOKSUN (KAHRAMANMARAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "05:14:59",
+        "Enlem": 40.8567,
+        "Boylam": 28.4703,
+        "Derinlik(km)": 5.8,
+        "ML": 2.0,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "05:06:33",
+        "Enlem": 40.337,
+        "Boylam": 27.112,
+        "Derinlik(km)": 21.7,
+        "ML": 0.6,
+        "Yer": "ESKIBALIKLI-BIGA (CANAKKALE) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "04:58:11",
+        "Enlem": 40.8587,
+        "Boylam": 28.4058,
+        "Derinlik(km)": 4.5,
+        "ML": 1.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "04:50:15",
+        "Enlem": 40.8488,
+        "Boylam": 28.4653,
+        "Derinlik(km)": 5.0,
+        "ML": 2.3,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "04:44:41",
+        "Enlem": 40.6345,
+        "Boylam": 27.3267,
+        "Derinlik(km)": 5.2,
+        "ML": 1.1,
+        "Yer": "MUREFTE ACIKLARI-TEKIRDAG (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "04:38:56",
+        "Enlem": 36.5872,
+        "Boylam": 25.5675,
+        "Derinlik(km)": 5.0,
+        "ML": 1.2,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "04:37:03",
+        "Enlem": 40.874,
+        "Boylam": 28.2933,
+        "Derinlik(km)": 5.1,
+        "ML": 1.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "04:22:16",
+        "Enlem": 40.8532,
+        "Boylam": 28.385,
+        "Derinlik(km)": 18.6,
+        "ML": 2.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "04:13:36",
+        "Enlem": 40.8405,
+        "Boylam": 28.289,
+        "Derinlik(km)": 6.7,
+        "ML": 1.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "04:04:25",
+        "Enlem": 37.198,
+        "Boylam": 29.7985,
+        "Derinlik(km)": 7.4,
+        "ML": 2.1,
+        "Yer": "CAYLI-TEFENNI (BURDUR) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "04:04:20",
+        "Enlem": 35.76,
+        "Boylam": 25.4567,
+        "Derinlik(km)": 10.4,
+        "ML": 2.1,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "04:00:14",
+        "Enlem": 40.8505,
+        "Boylam": 28.2933,
+        "Derinlik(km)": 5.0,
+        "ML": 2.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "03:55:27",
+        "Enlem": 37.1613,
+        "Boylam": 29.8193,
+        "Derinlik(km)": 5.0,
+        "ML": 2.0,
+        "Yer": "YESILKOY-TEFENNI (BURDUR) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "03:43:45",
+        "Enlem": 38.7577,
+        "Boylam": 23.2578,
+        "Derinlik(km)": 5.0,
+        "ML": 2.2,
+        "Yer": "YUNANISTAN İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "03:42:05",
+        "Enlem": 36.5295,
+        "Boylam": 25.5693,
+        "Derinlik(km)": 6.6,
+        "ML": 1.9,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "03:34:30",
+        "Enlem": 42.5508,
+        "Boylam": 27.9162,
+        "Derinlik(km)": 7.0,
+        "ML": 1.6,
+        "Yer": "BULGARISTAN İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "03:20:28",
+        "Enlem": 40.8563,
+        "Boylam": 28.4508,
+        "Derinlik(km)": 15.1,
+        "ML": 1.5,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "03:09:48",
+        "Enlem": 40.842,
+        "Boylam": 28.0707,
+        "Derinlik(km)": 11.2,
+        "ML": 1.4,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "03:05:34",
+        "Enlem": 40.851,
+        "Boylam": 28.4747,
+        "Derinlik(km)": 2.4,
+        "ML": 2.2,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "03:04:30",
+        "Enlem": 40.834,
+        "Boylam": 28.4347,
+        "Derinlik(km)": 2.6,
+        "ML": 2.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "03:01:51",
+        "Enlem": 37.9925,
+        "Boylam": 38.1172,
+        "Derinlik(km)": 13.3,
+        "ML": 1.0,
+        "Yer": "KURUCAOVA-DOGANSEHIR (MALATYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "03:01:39",
+        "Enlem": 38.7468,
+        "Boylam": 27.4583,
+        "Derinlik(km)": 8.5,
+        "ML": 1.8,
+        "Yer": "KARAYENICE-(MANISA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "02:58:34",
+        "Enlem": 40.847,
+        "Boylam": 28.3182,
+        "Derinlik(km)": 22.5,
+        "ML": 3.2,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "02:55:54",
+        "Enlem": 40.8637,
+        "Boylam": 28.4062,
+        "Derinlik(km)": 19.9,
+        "ML": 3.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "02:38:15",
+        "Enlem": 40.8437,
+        "Boylam": 28.1478,
+        "Derinlik(km)": 12.2,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "02:37:21",
+        "Enlem": 36.6507,
+        "Boylam": 25.6042,
+        "Derinlik(km)": 4.2,
+        "ML": 2.2,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "02:30:30",
+        "Enlem": 37.9507,
+        "Boylam": 27.6428,
+        "Derinlik(km)": 13.6,
+        "ML": 1.1,
+        "Yer": "BOZKOY-GERMENCIK (AYDIN) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "02:02:28",
+        "Enlem": 40.8525,
+        "Boylam": 28.1668,
+        "Derinlik(km)": 13.2,
+        "ML": 1.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "01:58:21",
+        "Enlem": 37.138,
+        "Boylam": 28.3888,
+        "Derinlik(km)": 5.0,
+        "ML": 1.0,
+        "Yer": "GULAGZI-(MUGLA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "01:44:11",
+        "Enlem": 40.582,
+        "Boylam": 36.0198,
+        "Derinlik(km)": 2.8,
+        "ML": 2.0,
+        "Yer": "TATAR-(AMASYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "01:38:56",
+        "Enlem": 38.1177,
+        "Boylam": 38.4228,
+        "Derinlik(km)": 6.8,
+        "ML": 1.8,
+        "Yer": "KARAGOL-CELIKHAN (ADIYAMAN) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "01:37:57",
+        "Enlem": 37.1217,
+        "Boylam": 28.346,
+        "Derinlik(km)": 4.4,
+        "ML": 1.5,
+        "Yer": "DOGAN-(MUGLA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "01:36:13",
+        "Enlem": 39.7208,
+        "Boylam": 23.6052,
+        "Derinlik(km)": 5.0,
+        "ML": 1.5,
+        "Yer": "YUNANISTAN İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "01:25:46",
+        "Enlem": 40.8545,
+        "Boylam": 28.4757,
+        "Derinlik(km)": 4.8,
+        "ML": 1.5,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "01:17:05",
+        "Enlem": 40.8383,
+        "Boylam": 28.3278,
+        "Derinlik(km)": 14.3,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "01:13:02",
+        "Enlem": 38.6998,
+        "Boylam": 27.7107,
+        "Derinlik(km)": 7.0,
+        "ML": 2.4,
+        "Yer": "ALIBEYLI-SARUHANLI (MANISA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "00:57:11",
+        "Enlem": 37.1308,
+        "Boylam": 28.3462,
+        "Derinlik(km)": 6.0,
+        "ML": 2.9,
+        "Yer": "DOGAN-(MUGLA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "00:54:04",
+        "Enlem": 40.8157,
+        "Boylam": 28.1072,
+        "Derinlik(km)": 17.4,
+        "ML": 1.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "00:42:11",
+        "Enlem": 40.8847,
+        "Boylam": 28.4252,
+        "Derinlik(km)": 12.2,
+        "ML": 1.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "00:39:07",
+        "Enlem": 40.855,
+        "Boylam": 28.3602,
+        "Derinlik(km)": 14.8,
+        "ML": 2.1,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "00:36:00",
+        "Enlem": 40.8672,
+        "Boylam": 28.4483,
+        "Derinlik(km)": 5.0,
+        "ML": 2.2,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "00:23:59",
+        "Enlem": 40.8458,
+        "Boylam": 28.422,
+        "Derinlik(km)": 12.8,
+        "ML": 1.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "00:23:01",
+        "Enlem": 40.85,
+        "Boylam": 28.269,
+        "Derinlik(km)": 14.5,
+        "ML": 2.2,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "00:21:07",
+        "Enlem": 40.833,
+        "Boylam": 28.4152,
+        "Derinlik(km)": 12.8,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.25",
+        "Saat": "00:15:02",
+        "Enlem": 38.1378,
+        "Boylam": 38.3435,
+        "Derinlik(km)": 8.7,
+        "ML": 1.7,
+        "Yer": "ORTAKOY-YESILYURT (MALATYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "23:58:59",
+        "Enlem": 38.0462,
+        "Boylam": 37.2318,
+        "Derinlik(km)": 8.7,
+        "ML": 1.3,
+        "Yer": "GOZPINAR-EKINOZU (KAHRAMANMARAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "23:39:36",
+        "Enlem": 40.8452,
+        "Boylam": 28.3957,
+        "Derinlik(km)": 12.6,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "23:36:22",
+        "Enlem": 40.8448,
+        "Boylam": 28.3753,
+        "Derinlik(km)": 12.8,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "23:09:35",
+        "Enlem": 42.5813,
+        "Boylam": 27.9337,
+        "Derinlik(km)": 7.4,
+        "ML": 3.1,
+        "Yer": "BULGARISTAN İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "22:57:22",
+        "Enlem": 40.8423,
+        "Boylam": 28.3548,
+        "Derinlik(km)": 7.2,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "22:56:11",
+        "Enlem": 40.8403,
+        "Boylam": 28.4313,
+        "Derinlik(km)": 7.4,
+        "ML": 1.7,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "22:50:22",
+        "Enlem": 40.861,
+        "Boylam": 28.3955,
+        "Derinlik(km)": 19.2,
+        "ML": 1.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "22:47:18",
+        "Enlem": 38.3757,
+        "Boylam": 37.6513,
+        "Derinlik(km)": 4.2,
+        "ML": 2.1,
+        "Yer": "KOZLUCA-AKCADAG (MALATYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "22:43:47",
+        "Enlem": 40.8478,
+        "Boylam": 28.411,
+        "Derinlik(km)": 4.9,
+        "ML": 1.7,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "22:12:46",
+        "Enlem": 40.8457,
+        "Boylam": 28.2682,
+        "Derinlik(km)": 12.4,
+        "ML": 2.0,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "22:06:25",
+        "Enlem": 40.8657,
+        "Boylam": 28.391,
+        "Derinlik(km)": 13.5,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "21:56:05",
+        "Enlem": 40.8502,
+        "Boylam": 28.3735,
+        "Derinlik(km)": 12.7,
+        "ML": 3.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "21:54:47",
+        "Enlem": 40.8527,
+        "Boylam": 28.38,
+        "Derinlik(km)": 13.5,
+        "ML": 3.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "21:48:53",
+        "Enlem": 40.8752,
+        "Boylam": 28.4287,
+        "Derinlik(km)": 12.5,
+        "ML": 2.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "21:43:42",
+        "Enlem": 40.5528,
+        "Boylam": 35.9463,
+        "Derinlik(km)": 8.4,
+        "ML": 1.4,
+        "Yer": "ARDICLAR-(AMASYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "21:43:30",
+        "Enlem": 40.8505,
+        "Boylam": 28.4087,
+        "Derinlik(km)": 12.8,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "21:33:36",
+        "Enlem": 40.854,
+        "Boylam": 28.2607,
+        "Derinlik(km)": 11.8,
+        "ML": 2.1,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "21:21:25",
+        "Enlem": 38.1278,
+        "Boylam": 27.1825,
+        "Derinlik(km)": 15.9,
+        "ML": 1.7,
+        "Yer": "SANCAKLI-MENDERES (IZMIR) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "21:15:20",
+        "Enlem": 40.7968,
+        "Boylam": 28.2723,
+        "Derinlik(km)": 14.9,
+        "ML": 1.7,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "21:11:51",
+        "Enlem": 40.8392,
+        "Boylam": 28.2662,
+        "Derinlik(km)": 18.3,
+        "ML": 3.2,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "20:42:08",
+        "Enlem": 40.8478,
+        "Boylam": 28.3225,
+        "Derinlik(km)": 11.5,
+        "ML": 2.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "20:30:32",
+        "Enlem": 36.9147,
+        "Boylam": 27.3112,
+        "Derinlik(km)": 12.0,
+        "ML": 2.4,
+        "Yer": "KOS ADASI (EGE DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "20:20:07",
+        "Enlem": 40.5818,
+        "Boylam": 36.01,
+        "Derinlik(km)": 5.7,
+        "ML": 3.7,
+        "Yer": "TATAR-(AMASYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "20:11:35",
+        "Enlem": 40.8602,
+        "Boylam": 28.3562,
+        "Derinlik(km)": 13.5,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "20:04:09",
+        "Enlem": 40.867,
+        "Boylam": 28.423,
+        "Derinlik(km)": 15.9,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "19:24:46",
+        "Enlem": 40.8443,
+        "Boylam": 28.2895,
+        "Derinlik(km)": 17.5,
+        "ML": 3.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "19:04:17",
+        "Enlem": 40.8515,
+        "Boylam": 28.4303,
+        "Derinlik(km)": 14.7,
+        "ML": 2.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "18:52:49",
+        "Enlem": 36.064,
+        "Boylam": 35.8393,
+        "Derinlik(km)": 8.9,
+        "ML": 2.1,
+        "Yer": "MAGARACIK-SAMANDAG (HATAY) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "18:16:15",
+        "Enlem": 40.8408,
+        "Boylam": 28.2482,
+        "Derinlik(km)": 15.2,
+        "ML": 2.4,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "17:52:53",
+        "Enlem": 40.8402,
+        "Boylam": 28.316,
+        "Derinlik(km)": 14.5,
+        "ML": 4.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "17:46:41",
+        "Enlem": 40.8655,
+        "Boylam": 28.2902,
+        "Derinlik(km)": 14.1,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "17:42:54",
+        "Enlem": 40.8432,
+        "Boylam": 28.2667,
+        "Derinlik(km)": 13.5,
+        "ML": 2.3,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "17:37:17",
+        "Enlem": 40.8323,
+        "Boylam": 28.2757,
+        "Derinlik(km)": 14.1,
+        "ML": 2.6,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "17:22:45",
+        "Enlem": 39.2577,
+        "Boylam": 28.99,
+        "Derinlik(km)": 12.6,
+        "ML": 1.7,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "16:04:06",
+        "Enlem": 40.8547,
+        "Boylam": 28.39,
+        "Derinlik(km)": 22.2,
+        "ML": 2.1,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "16:02:37",
+        "Enlem": 36.6722,
+        "Boylam": 25.4897,
+        "Derinlik(km)": 14.4,
+        "ML": 2.0,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "14:53:25",
+        "Enlem": 36.5163,
+        "Boylam": 25.6858,
+        "Derinlik(km)": 2.5,
+        "ML": 1.8,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "14:51:10",
+        "Enlem": 40.86,
+        "Boylam": 28.4247,
+        "Derinlik(km)": 21.2,
+        "ML": 2.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "14:50:02",
+        "Enlem": 38.1357,
+        "Boylam": 38.453,
+        "Derinlik(km)": 5.0,
+        "ML": 2.4,
+        "Yer": "AKSU-SINCIK (ADIYAMAN) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "14:42:58",
+        "Enlem": 36.5058,
+        "Boylam": 36.3027,
+        "Derinlik(km)": 5.3,
+        "ML": 2.3,
+        "Yer": "ARKITCA-KIRIKHAN (HATAY) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "14:40:33",
+        "Enlem": 40.8723,
+        "Boylam": 28.5848,
+        "Derinlik(km)": 5.0,
+        "ML": 1.8,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "14:01:15",
+        "Enlem": 39.0863,
+        "Boylam": 28.2368,
+        "Derinlik(km)": 11.0,
+        "ML": 1.7,
+        "Yer": "CICEKLI-GORDES (MANISA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "13:44:59",
+        "Enlem": 40.8635,
+        "Boylam": 28.4298,
+        "Derinlik(km)": 21.3,
+        "ML": 2.2,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "13:38:29",
+        "Enlem": 36.6173,
+        "Boylam": 25.5462,
+        "Derinlik(km)": 3.0,
+        "ML": 1.7,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "13:31:37",
+        "Enlem": 40.8548,
+        "Boylam": 28.3095,
+        "Derinlik(km)": 21.4,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "13:09:00",
+        "Enlem": 40.8432,
+        "Boylam": 28.3492,
+        "Derinlik(km)": 17.5,
+        "ML": 2.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "12:33:59",
+        "Enlem": 40.8493,
+        "Boylam": 28.4515,
+        "Derinlik(km)": 16.1,
+        "ML": 2.5,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "12:06:39",
+        "Enlem": 36.5345,
+        "Boylam": 25.668,
+        "Derinlik(km)": 19.9,
+        "ML": 3.4,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "12:03:37",
+        "Enlem": 40.8603,
+        "Boylam": 28.4188,
+        "Derinlik(km)": 16.0,
+        "ML": 2.7,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "11:20:08",
+        "Enlem": 36.6615,
+        "Boylam": 25.5653,
+        "Derinlik(km)": 5.7,
+        "ML": 1.8,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "10:56:07",
+        "Enlem": 36.5635,
+        "Boylam": 25.4723,
+        "Derinlik(km)": 8.2,
+        "ML": 2.5,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "10:38:58",
+        "Enlem": 36.6387,
+        "Boylam": 25.7722,
+        "Derinlik(km)": 5.0,
+        "ML": 2.0,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "10:12:47",
+        "Enlem": 36.674,
+        "Boylam": 25.7035,
+        "Derinlik(km)": 12.8,
+        "ML": 3.1,
+        "Yer": "EGE DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "10:07:40",
+        "Enlem": 40.8397,
+        "Boylam": 28.391,
+        "Derinlik(km)": 17.0,
+        "ML": 2.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "09:22:08",
+        "Enlem": 40.838,
+        "Boylam": 28.1362,
+        "Derinlik(km)": 19.0,
+        "ML": 3.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "07:55:48",
+        "Enlem": 39.8832,
+        "Boylam": 27.5767,
+        "Derinlik(km)": 8.2,
+        "ML": 1.8,
+        "Yer": "DEGIRMENDERE-BALYA (BALIKESIR) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "07:51:06",
+        "Enlem": 40.8535,
+        "Boylam": 28.4205,
+        "Derinlik(km)": 4.1,
+        "ML": 1.7,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "07:50:22",
+        "Enlem": 37.963,
+        "Boylam": 27.1857,
+        "Derinlik(km)": 7.1,
+        "ML": 1.7,
+        "Yer": "KUSADASI KORFEZI (EGE DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "07:45:59",
+        "Enlem": 40.8475,
+        "Boylam": 28.4193,
+        "Derinlik(km)": 12.8,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "07:35:33",
+        "Enlem": 40.8517,
+        "Boylam": 28.4297,
+        "Derinlik(km)": 13.0,
+        "ML": 2.4,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "07:22:18",
+        "Enlem": 40.8405,
+        "Boylam": 28.3177,
+        "Derinlik(km)": 15.0,
+        "ML": 2.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "07:19:18",
+        "Enlem": 40.829,
+        "Boylam": 28.3058,
+        "Derinlik(km)": 14.6,
+        "ML": 4.4,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "07:08:29",
+        "Enlem": 40.8467,
+        "Boylam": 28.3873,
+        "Derinlik(km)": 14.8,
+        "ML": 3.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "07:03:41",
+        "Enlem": 40.8595,
+        "Boylam": 28.3527,
+        "Derinlik(km)": 15.6,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "07:03:15",
+        "Enlem": 40.872,
+        "Boylam": 28.4295,
+        "Derinlik(km)": 19.3,
+        "ML": 2.1,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "07:01:33",
+        "Enlem": 40.8572,
+        "Boylam": 28.37,
+        "Derinlik(km)": 13.0,
+        "ML": 2.4,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "06:39:03",
+        "Enlem": 40.8465,
+        "Boylam": 28.1447,
+        "Derinlik(km)": 17.4,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "06:21:02",
+        "Enlem": 40.8605,
+        "Boylam": 28.4195,
+        "Derinlik(km)": 3.8,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "06:16:05",
+        "Enlem": 40.8383,
+        "Boylam": 28.1585,
+        "Derinlik(km)": 16.2,
+        "ML": 3.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "06:11:12",
+        "Enlem": 40.822,
+        "Boylam": 28.1375,
+        "Derinlik(km)": 14.8,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "06:00:47",
+        "Enlem": 40.863,
+        "Boylam": 28.2885,
+        "Derinlik(km)": 13.5,
+        "ML": 2.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "05:49:08",
+        "Enlem": 40.8443,
+        "Boylam": 28.3765,
+        "Derinlik(km)": 11.9,
+        "ML": 2.2,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "05:42:02",
+        "Enlem": 38.3397,
+        "Boylam": 27.1915,
+        "Derinlik(km)": 3.8,
+        "ML": 1.6,
+        "Yer": "ZAFER-BUCA (IZMIR) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "05:41:12",
+        "Enlem": 40.8588,
+        "Boylam": 28.3155,
+        "Derinlik(km)": 10.8,
+        "ML": 1.8,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "05:40:02",
+        "Enlem": 40.84,
+        "Boylam": 28.2995,
+        "Derinlik(km)": 12.4,
+        "ML": 2.1,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "05:31:36",
+        "Enlem": 40.8642,
+        "Boylam": 28.4207,
+        "Derinlik(km)": 12.9,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "05:23:10",
+        "Enlem": 40.8575,
+        "Boylam": 28.4365,
+        "Derinlik(km)": 13.7,
+        "ML": 1.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "05:22:18",
+        "Enlem": 40.8665,
+        "Boylam": 28.3262,
+        "Derinlik(km)": 16.8,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "05:20:57",
+        "Enlem": 38.1808,
+        "Boylam": 38.4938,
+        "Derinlik(km)": 10.1,
+        "ML": 1.4,
+        "Yer": "ULUKOY (MALATYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "05:19:11",
+        "Enlem": 40.93,
+        "Boylam": 28.613,
+        "Derinlik(km)": 3.2,
+        "ML": 1.8,
+        "Yer": "BEYLIKDUZU (ISTANBUL) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "05:16:53",
+        "Enlem": 38.0505,
+        "Boylam": 29.0375,
+        "Derinlik(km)": 15.8,
+        "ML": 1.6,
+        "Yer": "BELENARDIC-AKKOY (DENIZLI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "05:10:09",
+        "Enlem": 40.8493,
+        "Boylam": 28.382,
+        "Derinlik(km)": 14.2,
+        "ML": 2.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:59:03",
+        "Enlem": 37.42,
+        "Boylam": 36.9035,
+        "Derinlik(km)": 5.0,
+        "ML": 1.2,
+        "Yer": "KUYUMCULAR-TURKOGLU (KAHRAMANMARAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:57:41",
+        "Enlem": 40.8308,
+        "Boylam": 28.123,
+        "Derinlik(km)": 12.2,
+        "ML": 1.9,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:55:02",
+        "Enlem": 36.9543,
+        "Boylam": 28.8823,
+        "Derinlik(km)": 20.1,
+        "ML": 1.5,
+        "Yer": "SAZAK-KOYCEGIZ (MUGLA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:52:36",
+        "Enlem": 40.8738,
+        "Boylam": 28.1288,
+        "Derinlik(km)": 19.4,
+        "ML": 2.2,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:48:11",
+        "Enlem": 40.8865,
+        "Boylam": 28.3783,
+        "Derinlik(km)": 13.5,
+        "ML": 1.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:47:09",
+        "Enlem": 40.8557,
+        "Boylam": 28.4747,
+        "Derinlik(km)": 14.2,
+        "ML": 1.5,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:38:14",
+        "Enlem": 40.6373,
+        "Boylam": 33.008,
+        "Derinlik(km)": 2.3,
+        "ML": 2.5,
+        "Yer": "BUGUOREN-ORTA (CANKIRI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:35:45",
+        "Enlem": 40.8575,
+        "Boylam": 28.322,
+        "Derinlik(km)": 5.2,
+        "ML": 1.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:34:25",
+        "Enlem": 40.8717,
+        "Boylam": 28.3777,
+        "Derinlik(km)": 12.1,
+        "ML": 1.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:20:03",
+        "Enlem": 40.8217,
+        "Boylam": 28.1293,
+        "Derinlik(km)": 12.9,
+        "ML": 4.1,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:16:18",
+        "Enlem": 37.1762,
+        "Boylam": 28.615,
+        "Derinlik(km)": 14.1,
+        "ML": 0.8,
+        "Yer": "CAKMAK (MUGLA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:12:27",
+        "Enlem": 37.4495,
+        "Boylam": 36.3068,
+        "Derinlik(km)": 4.6,
+        "ML": 1.3,
+        "Yer": "YESILOVA-ANDIRIN (KAHRAMANMARAS) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "04:11:56",
+        "Enlem": 40.8403,
+        "Boylam": 28.4422,
+        "Derinlik(km)": 13.5,
+        "ML": 2.2,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "03:59:52",
+        "Enlem": 40.8642,
+        "Boylam": 28.4095,
+        "Derinlik(km)": 12.6,
+        "ML": 3.3,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "03:47:48",
+        "Enlem": 40.8123,
+        "Boylam": 28.1792,
+        "Derinlik(km)": 15.8,
+        "ML": 1.7,
+        "Yer": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "03:30:22",
+        "Enlem": 37.8968,
+        "Boylam": 29.2345,
+        "Derinlik(km)": 8.1,
+        "ML": 3.8,
+        "Yer": "IRLIGANLI (DENIZLI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "03:23:59",
+        "Enlem": 40.8637,
+        "Boylam": 28.2902,
+        "Derinlik(km)": 10.7,
+        "ML": 2.0,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "03:17:49",
+        "Enlem": 40.8507,
+        "Boylam": 28.482,
+        "Derinlik(km)": 14.8,
+        "ML": 2.9,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "03:16:07",
+        "Enlem": 40.8387,
+        "Boylam": 28.4213,
+        "Derinlik(km)": 14.6,
+        "ML": 1.5,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "03:11:04",
+        "Enlem": 40.8803,
+        "Boylam": 28.4157,
+        "Derinlik(km)": 14.4,
+        "ML": 1.6,
+        "Yer": "MARMARA DENIZI İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "03:06:13",
+        "Enlem": 40.8667,
+        "Boylam": 28.6913,
+        "Derinlik(km)": 10.7,
+        "ML": 2.0,
+        "Yer": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "02:56:31",
+        "Enlem": 39.2385,
+        "Boylam": 28.9938,
+        "Derinlik(km)": 13.5,
+        "ML": 1.6,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "02:46:34",
+        "Enlem": 39.2563,
+        "Boylam": 28.9887,
+        "Derinlik(km)": 9.7,
+        "ML": 2.6,
+        "Yer": "YEMISLI-SIMAV (KUTAHYA) İlksel"
+    },
+    {
+        "Tarih": "2025.04.24",
+        "Saat": "02:45:11",
+        "Enlem": 40.8673,
+        "Boylam": 28.4897,
+        "Derinlik(km)": 5.0,
+        "ML": 1.7,
+        "Yer": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel"
+    }
+]

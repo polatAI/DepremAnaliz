@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deprem Haritası</title>
+    <style>
+        body {
+            background-color: #000; /* Arka plan siyah */
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .info {
+            color: #fff; /* Yazılar beyaz */
+            margin: 30px auto;
+            padding: 20px;
+            width: 90%;
+            max-width: 800px;
+            background-color: #111;
+            border: 1px solid #333;
+            border-radius: 12px;
+            font-size: 17px;
+            line-height: 1.7;
+            text-align: center;
+            z-index: 10;
+            position: relative;
+        }
+
+        .magnitude-table {
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+
+        .magnitude-table th, .magnitude-table td {
+            border: 1px solid #444;
+            padding: 8px 16px;
+            font-size: 16px;
+        }
+
+        .magnitude-table th {
+            background-color: #222;
+            color: #ebe4e4;
+        }
+
+        .magnitude-table td {
+            color: #f4ebeb;
+        }
+
+        .low { background-color: #2ecc71; }     /* Yeşil - Hafif */
+        .moderate { background-color: #f1c40f; } /* Sarı - Orta */
+        .strong { background-color: #e67e22; }    /* Turuncu - Güçlü */
+        .severe { background-color: #e74c3c; }    /* Kırmızı - Şiddetli */
+        .violent { background-color: #c0392b; }   /* Koyu Kırmızı - Çok Şiddetli */
+
+        .map-container {
+            width: 100%;
+            height: 1000px;
+            margin-top: 20px;
+            z-index: 1;
+            position: relative;
+        }
+
+        /* Harita içindeki markerlar */
+        .pulse-marker {
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            position: relative;
+            box-shadow: 0 0 8px rgba(255, 0, 0, 0.6);
+        }
+
+        .pulse-marker::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background: rgba(255, 0, 0, 0.4);
+            animation: pulse 1.8s ease-out infinite;
+            z-index: -1;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(1); opacity: 0.7; }
+            50% { transform: scale(2.5); opacity: 0.3; }
+            100% { transform: scale(1); opacity: 0.0; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="info">
+        <p>Bu harita, ülkemizde meydana gelen güncel depremleri göstermektedir.</p>
+
+        <table class="magnitude-table">
+            <thead>
+                <tr>
+                    <th>Şiddet</th>
+                    <th>Aralık</th>
+                    <th>Renk</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="low">
+                    <td>Hafif</td>
+                    <td>0 - 2.9</td>
+                    <td>Yeşil</td>
+                </tr>
+                <tr class="moderate">
+                    <td>Orta</td>
+                    <td>3.0 - 3.9</td>
+                    <td>Sarı</td>
+                </tr>
+                <tr class="strong">
+                    <td>Güçlü</td>
+                    <td>4.0 - 5.9</td>
+                    <td>Turuncu</td>
+                </tr>
+                <tr class="severe">
+                    <td>Şiddetli</td>
+                    <td>6.0 - 6.9</td>
+                    <td>Kırmızı</td>
+                </tr>
+                <tr class="violent">
+                    <td>Çok Şiddetli</td>
+                    <td>7.0+</td>
+                    <td>Koyu Kırmızı</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p>Bu veriler, <strong>Kandilli Rasathanesi'nin</strong> resmi web sitesinden alınmıştır.<br>
+        Kesinlikle <strong>ticari amaçla</strong> kullanılmamaktadır.</p>
+
+        <p>Bu program sadece <strong>kullanıcıları bilgilendirmek amacıyla</strong> hazırlanmıştır.<br>
+        Eğer verileri ticari amaçla kullanmak istiyorsanız, <strong>Kandilli Rasathanesi'nden gerekli izinleri almanız gerekmektedir.</strong></p>
+    </div>
+
+    <div class="map-container">
+        {{ map_html | safe }}
+    </div>
+
+</body>
+</html>
